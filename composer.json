@@ -1,5 +1,6 @@
 {
-    "description": "OpenAPI Specifications for the Binance Public Spot API  API documents:   - [https://github.com/binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs)   - [https://binance-docs.github.io/apidocs/spot/en](https://binance-docs.github.io/apidocs/spot/en)",
+    "name" : "nutter20912/binance_api",
+    "description": "OpenAPI Specifications for the Binance Public Spot API",
     "keywords": [
         "openapitools",
         "openapi-generator",
